@@ -63,4 +63,9 @@ public class PageTest {
         System.out.println("hello,hot-fix!");
     }
 
+    @Test
+    public void testPush(){
+        System.out.println("testPush!");
+    }
+
 }
