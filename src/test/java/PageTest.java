@@ -67,5 +67,10 @@ public class PageTest {
     public void testPush(){
         System.out.println("testPush!");
     }
+    
+    @Test
+    public void testPush(){
+        System.out.println("testPull!");
+    }
 
 }
