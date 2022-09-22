@@ -69,7 +69,7 @@ public class PageTest {
     }
     
     @Test
-    public void testPush(){
+    public void testPull(){
         System.out.println("testPull!");
     }
 
