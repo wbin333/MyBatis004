@@ -59,8 +59,8 @@ public class PageTest {
     }
 
     @Test
-    public void testGit(){
-        System.out.println("hello,git");
+    public void testHotfix(){
+        System.out.println("hello,hot-fix!");
     }
 
 }
