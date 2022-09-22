@@ -58,4 +58,9 @@ public class PageTest {
         System.out.println(page);
     }
 
+    @Test
+    public void testGit(){
+        System.out.println("hello,git");
+    }
+
 }
